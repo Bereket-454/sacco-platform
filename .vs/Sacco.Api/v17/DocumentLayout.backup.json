@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Guba Technology\\Sacco Finanicial\\Sacco.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{522A8D73-5013-4123-A4E6-7AC853E15CDD}|Sacco.Api\\Sacco.Api.csproj|d:\\projects\\guba technology\\sacco finanicial\\sacco.api\\sacco.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{522A8D73-5013-4123-A4E6-7AC853E15CDD}|Sacco.Api\\Sacco.Api.csproj|solutionrelative:sacco.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A8D73-5013-4123-A4E6-7AC853E15CDD}|Sacco.Api\\Sacco.Api.csproj|d:\\projects\\guba technology\\sacco finanicial\\sacco.api\\sacco.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522A8D73-5013-4123-A4E6-7AC853E15CDD}|Sacco.Api\\Sacco.Api.csproj|solutionrelative:sacco.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A8D73-5013-4123-A4E6-7AC853E15CDD}|Sacco.Api\\Sacco.Api.csproj|d:\\projects\\guba technology\\sacco finanicial\\sacco.api\\sacco.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{522A8D73-5013-4123-A4E6-7AC853E15CDD}|Sacco.Api\\Sacco.Api.csproj|solutionrelative:sacco.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB65AE2-2229-4D53-9E79-D5FBB3CD5B41}|Sacco.Infrastracture\\Sacco.Infrastracture.csproj|d:\\projects\\guba technology\\sacco finanicial\\sacco.api\\sacco.infrastracture\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB65AE2-2229-4D53-9E79-D5FBB3CD5B41}|Sacco.Infrastracture\\Sacco.Infrastracture.csproj|solutionrelative:sacco.infrastracture\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DB4BB5-9C6F-4119-ADB8-3BE2D3878398}|Sacco.Application\\Sacco.Application.csproj|d:\\projects\\guba technology\\sacco finanicial\\sacco.api\\sacco.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DB4BB5-9C6F-4119-ADB8-3BE2D3878398}|Sacco.Application\\Sacco.Application.csproj|solutionrelative:sacco.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCAD590-AE05-4BBA-BE36-4FBBE7D394DC}|Sacco.Domain\\Sacco.Domain.csproj|d:\\projects\\guba technology\\sacco finanicial\\sacco.api\\sacco.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCAD590-AE05-4BBA-BE36-4FBBE7D394DC}|Sacco.Domain\\Sacco.Domain.csproj|solutionrelative:sacco.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A8D73-5013-4123-A4E6-7AC853E15CDD}|Sacco.Api\\Sacco.Api.csproj|d:\\projects\\guba technology\\sacco finanicial\\sacco.api\\sacco.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522A8D73-5013-4123-A4E6-7AC853E15CDD}|Sacco.Api\\Sacco.Api.csproj|solutionrelative:sacco.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Guba Technology\\Sacco Finanicial\\Sacco.Api\\Sacco.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Sacco.Api\\appsettings.json",
+              "ToolTip": "D:\\Projects\\Guba Technology\\Sacco Finanicial\\Sacco.Api\\Sacco.Api\\appsettings.json",
+              "RelativeToolTip": "Sacco.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-12T08:10:17.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Guba Technology\\Sacco Finanicial\\Sacco.Api\\Sacco.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Sacco.Api\\Program.cs",
+              "ToolTip": "D:\\Projects\\Guba Technology\\Sacco Finanicial\\Sacco.Api\\Sacco.Api\\Program.cs",
+              "RelativeToolTip": "Sacco.Api\\Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T08:06:07.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Projects\\Guba Technology\\Sacco Finanicial\\Sacco.Api\\Sacco.Infrastracture\\Class1.cs",
+              "RelativeDocumentMoniker": "Sacco.Infrastracture\\Class1.cs",
+              "ToolTip": "D:\\Projects\\Guba Technology\\Sacco Finanicial\\Sacco.Api\\Sacco.Infrastracture\\Class1.cs",
+              "RelativeToolTip": "Sacco.Infrastracture\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T07:57:59.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Projects\\Guba Technology\\Sacco Finanicial\\Sacco.Api\\Sacco.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Sacco.Application\\Class1.cs",
+              "ToolTip": "D:\\Projects\\Guba Technology\\Sacco Finanicial\\Sacco.Api\\Sacco.Application\\Class1.cs",
+              "RelativeToolTip": "Sacco.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T07:57:16.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Projects\\Guba Technology\\Sacco Finanicial\\Sacco.Api\\Sacco.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Sacco.Domain\\Class1.cs",
+              "ToolTip": "D:\\Projects\\Guba Technology\\Sacco Finanicial\\Sacco.Api\\Sacco.Domain\\Class1.cs",
+              "RelativeToolTip": "Sacco.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T07:56:54.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Projects\\Guba Technology\\Sacco Finanicial\\Sacco.Api\\Sacco.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Sacco.Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Projects\\Guba Technology\\Sacco Finanicial\\Sacco.Api\\Sacco.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Sacco.Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T07:56:03.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\Guba Technology\\Sacco Finanicial\\Sacco.Api\\Sacco.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Sacco.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\Guba Technology\\Sacco Finanicial\\Sacco.Api\\Sacco.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Sacco.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-12T07:55:34.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

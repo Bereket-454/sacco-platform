@@ -1,0 +1,24 @@
+D:/Projects/Guba Technology/Sacco Finanicial/Sacco.Api/Sacco.Application/bin/Debug/net9.0/Sacco.Application.deps.json
+D:/Projects/Guba Technology/Sacco Finanicial/Sacco.Api/Sacco.Application/bin/Debug/net9.0/Sacco.Application.dll
+D:/Projects/Guba Technology/Sacco Finanicial/Sacco.Api/Sacco.Application/bin/Debug/net9.0/Sacco.Application.pdb
+D:/Projects/Guba Technology/Sacco Finanicial/Sacco.Api/Sacco.Application/obj/Debug/net9.0/Sacco.Application.csproj.AssemblyReference.cache
+D:/Projects/Guba Technology/Sacco Finanicial/Sacco.Api/Sacco.Application/obj/Debug/net9.0/Sacco.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:/Projects/Guba Technology/Sacco Finanicial/Sacco.Api/Sacco.Application/obj/Debug/net9.0/Sacco.Application.AssemblyInfoInputs.cache
+D:/Projects/Guba Technology/Sacco Finanicial/Sacco.Api/Sacco.Application/obj/Debug/net9.0/Sacco.Application.AssemblyInfo.cs
+D:/Projects/Guba Technology/Sacco Finanicial/Sacco.Api/Sacco.Application/obj/Debug/net9.0/Sacco.Application.csproj.CoreCompileInputs.cache
+D:/Projects/Guba Technology/Sacco Finanicial/Sacco.Api/Sacco.Application/obj/Debug/net9.0/Sacco.Application.dll
+D:/Projects/Guba Technology/Sacco Finanicial/Sacco.Api/Sacco.Application/obj/Debug/net9.0/refint/Sacco.Application.dll
+D:/Projects/Guba Technology/Sacco Finanicial/Sacco.Api/Sacco.Application/obj/Debug/net9.0/Sacco.Application.pdb
+D:/Projects/Guba Technology/Sacco Finanicial/Sacco.Api/Sacco.Application/obj/Debug/net9.0/ref/Sacco.Application.dll
+/Users/bereket/Downloads/Sacco Finanicial/Sacco.Api/Sacco.Application/bin/Debug/net9.0/Sacco.Application.deps.json
+/Users/bereket/Downloads/Sacco Finanicial/Sacco.Api/Sacco.Application/bin/Debug/net9.0/Sacco.Application.dll
+/Users/bereket/Downloads/Sacco Finanicial/Sacco.Api/Sacco.Application/bin/Debug/net9.0/Sacco.Application.pdb
+/Users/bereket/Downloads/Sacco Finanicial/Sacco.Api/Sacco.Application/obj/Debug/net9.0/Sacco.Application.csproj.AssemblyReference.cache
+/Users/bereket/Downloads/Sacco Finanicial/Sacco.Api/Sacco.Application/obj/Debug/net9.0/Sacco.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bereket/Downloads/Sacco Finanicial/Sacco.Api/Sacco.Application/obj/Debug/net9.0/Sacco.Application.AssemblyInfoInputs.cache
+/Users/bereket/Downloads/Sacco Finanicial/Sacco.Api/Sacco.Application/obj/Debug/net9.0/Sacco.Application.AssemblyInfo.cs
+/Users/bereket/Downloads/Sacco Finanicial/Sacco.Api/Sacco.Application/obj/Debug/net9.0/Sacco.Application.csproj.CoreCompileInputs.cache
+/Users/bereket/Downloads/Sacco Finanicial/Sacco.Api/Sacco.Application/obj/Debug/net9.0/Sacco.Application.dll
+/Users/bereket/Downloads/Sacco Finanicial/Sacco.Api/Sacco.Application/obj/Debug/net9.0/refint/Sacco.Application.dll
+/Users/bereket/Downloads/Sacco Finanicial/Sacco.Api/Sacco.Application/obj/Debug/net9.0/Sacco.Application.pdb
+/Users/bereket/Downloads/Sacco Finanicial/Sacco.Api/Sacco.Application/obj/Debug/net9.0/ref/Sacco.Application.dll
